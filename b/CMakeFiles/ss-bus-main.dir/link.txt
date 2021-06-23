@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc  -g -rdynamic CMakeFiles/ss-bus-main.dir/ss-bus-main.c.o CMakeFiles/ss-bus-main.dir/cgraph/examples/bus/getline.c.o -o ss-bus-main  cgraph/libcgraph.a libfdr/libfdr.a libfdr/libfdr.a 

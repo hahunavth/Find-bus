@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++ -g -rdynamic CMakeFiles/task1cc.dir/task1.cc.o -o task1cc  ../../libcgraph.a 

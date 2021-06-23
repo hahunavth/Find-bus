@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc  -g -g -Wall -Wno-unused-function -g -rdynamic CMakeFiles/vector_of_ivec.dir/vector_of_ivec.c.o -o vector_of_ivec  ../../libcgraph.a 

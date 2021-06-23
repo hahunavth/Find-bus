@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc  -g -g -Wall -Wno-unused-function -g -rdynamic CMakeFiles/hsi_demo.dir/hsi_demo.c.o -o hsi_demo  ../../../ctc/libcollectc.a 

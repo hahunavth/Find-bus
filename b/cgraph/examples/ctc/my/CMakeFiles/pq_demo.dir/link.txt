@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc  -g -g -Wall -Wno-unused-function -g -rdynamic CMakeFiles/pq_demo.dir/pqueue_demo.c.o -o pq_demo  ../../../ctc/libcollectc.a 

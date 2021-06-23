@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc  -g -g -Wall -Wno-unused-function -g -rdynamic CMakeFiles/bus.dir/main.c.o CMakeFiles/bus.dir/getline.c.o -o bus  ../../libcgraph.a 

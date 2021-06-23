@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc  -g -g -Wall -Wno-unused-function -g -rdynamic CMakeFiles/cgraph_rvec_t_demo.dir/cgraph_rvec_t_demo.c.o -o cgraph_rvec_t_demo  ../libcgraph.a 

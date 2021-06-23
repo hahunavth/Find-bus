@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc  -g -g -Wall -Wno-unused-function -g -rdynamic CMakeFiles/task1c.dir/task1.c.o -o task1c  ../../ctc/libcollectc.a ../../libcgraph.a 

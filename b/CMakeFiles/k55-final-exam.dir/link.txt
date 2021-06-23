@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc  -g -rdynamic CMakeFiles/k55-final-exam.dir/k55-final-exam.c.o -o k55-final-exam  cgraph/libcgraph.a 

@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc  -g -g -Wall -Wno-unused-function -g -rdynamic CMakeFiles/ivec_as_param.dir/cgraph_ivec_as_param_demo.c.o -o ivec_as_param  ../libcgraph.a 

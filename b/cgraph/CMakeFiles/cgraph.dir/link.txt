@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcgraph.a CMakeFiles/cgraph.dir/cgraph_error.c.o CMakeFiles/cgraph.dir/cgraph_ivec.c.o CMakeFiles/cgraph.dir/type_indexededgelist.c.o CMakeFiles/cgraph.dir/structure_generators.c.o CMakeFiles/cgraph.dir/visitors.c.o CMakeFiles/cgraph.dir/cgraph_iqueue.c.o CMakeFiles/cgraph.dir/cgraph_queue.c.o CMakeFiles/cgraph.dir/structural_properties.c.o CMakeFiles/cgraph.dir/cgraph_istack.c.o CMakeFiles/cgraph.dir/cgraph_rvec.c.o CMakeFiles/cgraph.dir/heap.c.o
+/usr/bin/ranlib libcgraph.a

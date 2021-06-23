@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc  -g -rdynamic CMakeFiles/graph_test.dir/graph_test.c.o -o graph_test  cgraph/libcgraph.a 
