@@ -1,5 +1,5 @@
 # Find-bus
-CAdbanced example
+CAdvanced example
 
 ### Run: 
 ```bash
